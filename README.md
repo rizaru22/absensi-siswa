@@ -21,7 +21,7 @@ Aplikasi Absensi Siswa adalah sebuah sistem berbasis web yang dibangun menggunak
 - PHP 8.2 atau lebih baru
 - Composer
 - Node.js & NPM
-- Database MySQL / PostgreSQL
+- Database MySQL 
 
 ## Instalasi
 ### 1. Clone Repository
