@@ -6,10 +6,10 @@ Aplikasi Absensi Siswa adalah sebuah sistem berbasis web yang dibangun menggunak
 ## Fitur Utama
 - [x] **Manajemen Siswa**: Tambah, edit, dan hapus data siswa. 
 - [x] **Manajemen Kelas**: Kelola daftar kelas dan wali kelas.
-- **Absensi Real-time**: Input dan pemantauan absensi menggunakan Livewire 3.
-- **Laporan Absensi**: Generate laporan harian, mingguan, atau bulanan dalam format PDF/Excel.
-- **Notifikasi**: Kirim notifikasi ke orang tua atau wali melalui email atau WhatsApp.
-- **Autentikasi & Hak Akses**: Role-based access control untuk admin, guru, dan siswa.
+- [ ] **Absensi Real-time**: Input dan pemantauan absensi menggunakan Livewire 3.
+- [ ] **Laporan Absensi**: Generate laporan harian, mingguan, atau bulanan dalam format PDF/Excel.
+- [ ] **Notifikasi**: Kirim notifikasi ke orang tua atau wali melalui email atau WhatsApp.
+- [ ] **Autentikasi & Hak Akses**: Role-based access control untuk admin, guru, dan siswa.
 
 ## Teknologi yang Digunakan
 - **Framework**: Laravel 11
