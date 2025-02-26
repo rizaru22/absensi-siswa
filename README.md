@@ -4,7 +4,7 @@
 Aplikasi Absensi Siswa adalah sebuah sistem berbasis web yang dibangun menggunakan Laravel 11 dan Livewire 3 untuk membantu sekolah dalam mengelola data kehadiran siswa secara digital.
 
 ## Database Design
-[Database Design](https://github.com/rizaru22/absensi-siswa/blob/main/database-design.png)
+![Database Design](https://github.com/rizaru22/absensi-siswa/blob/main/database-design.png)
 ## Fitur Utama
 - [ ] **Manajemen Siswa**: Tambah, edit, dan hapus data siswa. 
 - [ ] **Manajemen Kelas**: Kelola daftar kelas dan wali kelas.
