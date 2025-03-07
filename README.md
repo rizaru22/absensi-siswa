@@ -17,6 +17,7 @@ Aplikasi Absensi Siswa adalah sebuah sistem berbasis web yang dibangun menggunak
 - **Framework**: Laravel 11
 - **Frontend**: Livewire 3 & Tailwind CSS
 - **Database**: MySQL 
+-**Template**:Mazer ![GitHub code size in bytes](https://github.com/zuramai/mazer)
 
 
 ## Persyaratan Sistem

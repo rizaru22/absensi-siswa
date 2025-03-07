@@ -44,8 +44,8 @@
         <ul class="menu">
             
             <li class="sidebar-title">Menu</li>
-            <x-menu link="#" icon="bi bi-grid-fill" name="Dashboard" active="{{ request()->routeIs('dashboard.admin') }}"/>
-            <x-menu link="#" icon="bi bi-grid-fill" name="Kelas" active="{{ request()->routeIs('kelas') }}"/>
+            <x-menu link="{{ route('dashboard.admin') }}" icon="bi bi-grid-fill" name="Dashboard" active="{{ request()->routeIs('dashboard.admin') }}"/>
+            <x-menu link="{{ route('kelas') }}" icon="bi bi-house-heart-fill" name="Kelas" active="{{ request()->routeIs('kelas') }}"/>
         </ul>
     </div>
 </div>
